@@ -161,7 +161,7 @@ to unseen deepfake generators quickly.
 
 📽️ Few-Shot Learning & Adversarial Training Concept PPT: [Drive Link](https://drive.google.com/file/d/1bFFZ-0i3eJBwT7fuRwZECMxyfnmg406-/view?usp=drivesdk)
 
-📽️ Final Project Presentation PPT: [Drive Link](https://drive.google.com/file/d/1bGOYsq3QnbITUGEotX1A_Ua9PC5SCV00/view?usp=drivesdk)
+📽️ Final Project Presentation PPT: [Drive Link](https://drive.google.com/file/d/1SiI6QvbGhP4Lp8UUGqdu1ZPecFoSOGEI/view?usp=sharing)
 
 Other directions include:
 - Reduce embedding dimensionality for efficiency.
