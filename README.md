@@ -14,7 +14,7 @@ Name                        | Roll No. | Email
 ----------------------------|----------|-----------------------------------------------
 Aditya Tayal                | B23243   | b23243@students.iitmandi.ac.in
 Karanpreet Singh Dhaliwal  | B23138   | b23138@students.iitmandi.ac.in
-Kinshuk Chauhan             | B23142   | b23142@students.iitmandi.ac.in
+Daksh Yadav                | B23037   | b23037@students.iitmandi.ac.in
 Yatin Gupta                 | B23186   | b23186@students.iitmandi.ac.in
 Mayur Arora                 | B23213   | b23213@students.iitmandi.ac.in
 Mankirat Singh Saini        | B23270   | b23270@students.iitmandi.ac.in
